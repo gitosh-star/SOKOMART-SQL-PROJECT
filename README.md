@@ -98,29 +98,3 @@ expected output columns for each question.
 7.  Save your SQL scripts and supporting documentation in this project
     folder.
 
-**Note:** Do not run scripts that modify or reset data until you have
-saved any results or screenshots you need. Follow the assignment's reset
-instructions if you need to restore the original data.
-
-## Suggested repository structure
-
-``` text
-sokomart-sql-project/
-├── README.md
-├── sql/
-│   ├── section_a_ctes_subqueries.sql
-│   ├── section_b_window_functions.sql
-│   ├── section_c_database_objects.sql
-│   ├── section_d_transactions.sql
-│   └── section_e_advanced_sql.sql
-└── screenshots/
-    └── query-results/
-```
-
-Adjust the filenames and folders to match the files you actually create.
-Do not upload database passwords, private connection details, or other
-secrets to GitHub.
-
-## Author
-
-Add your name and any required cohort details here before publishing.
